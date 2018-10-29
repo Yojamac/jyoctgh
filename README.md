@@ -1,2 +1,4 @@
 # jyoctgh
-Github Training Clas
+Github Training Class
+
+https://github.com/Yojamac/jyoctgh/wiki
